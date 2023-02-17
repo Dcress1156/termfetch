@@ -1,0 +1,2 @@
+# termfetch
+Terminal fetching script
