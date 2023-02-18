@@ -3,6 +3,17 @@ Minimal fetch script focused on terminal info.
 
 Will require fetchutils (https://github.com/kiedtl/fetchutils). I included an install script that will also download the dependency for you, if you prefer.
 
+## Install
+clone the repo and make the install executable
+
+cd termfetch
+
+chmod +x install.sh
+
+./install.sh
+
+from there it will install everything for you and you can just run the termfetch command to get your minimal fetching needs met.
+
 ## Images
 With lolcat
 
