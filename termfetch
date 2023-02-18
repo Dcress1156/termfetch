@@ -1,0 +1,7 @@
+#!/bin/sh
+
+ASCII=$(termfetch_ascii.sh)
+TERMFETCH=$(termfetch_info.sh)
+
+termfetch_ascii.sh
+termfetch_info.sh
