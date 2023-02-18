@@ -1,5 +1,5 @@
 # termfetch
-Minimal fetch script that will provide details on terminal stuff written only in Shell.
+Minimal fetch script focused on terminal info.
 
 Will require fetchutils (https://github.com/kiedtl/fetchutils). I included an install script that will also download the dependency for you, if you prefer.
 
