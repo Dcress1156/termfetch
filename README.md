@@ -22,3 +22,6 @@ With lolcat
 default
 
 ![image](https://user-images.githubusercontent.com/67988191/219903041-2d88a9b7-f4b2-4190-80a4-5dda7513ef57.png)
+
+## important
+The install script is broken for non-fish shells. If you use bash or zsh you would have to install manually. It isn't hard.
